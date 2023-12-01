@@ -29,7 +29,7 @@ Ce code de conduite s'applique à tous les espaces du projet OS-Job-Project, y c
 
 ## Mise en Œuvre
 
-Les cas de comportement abusif, intimidant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à [winckeldev@gmail.com]. Toutes les plaintes seront examinées et enquêtées avec la plus grande diligence.
+Les cas de comportement abusif, intimidant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à winckeldev@gmail.com . Toutes les plaintes seront examinées et enquêtées avec la plus grande diligence.
 
 ## Attribution
 
