@@ -19,7 +19,7 @@ Nous accueillons chaleureusement les contributions de la communauté. Si vous so
 2. **Clonez le Projet :** Clonez votre fork localement sur votre machine.
 
     ```bash
-    git clone https://github.com/VotreNom/Nom-du-Projet.git
+    git clone https://github.com/AlistairFR/os-job-project.git
     ```
 
 3. **Créez une Branche :** Créez une nouvelle branche pour travailler sur votre fonctionnalité ou correction.
